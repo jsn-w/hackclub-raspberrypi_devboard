@@ -12,7 +12,8 @@ There are many features, such as compatibility with USB-C, supports breadboard p
 <img width="2044" height="1364" alt="image" src="https://github.com/user-attachments/assets/e6a9e59f-d3f4-489d-be0a-d1fcc3abd500" />
 
 # PCB
-<img width="458" height="1121" alt="image" src="https://github.com/user-attachments/assets/2f389f00-357c-4886-9f3f-8985830dc8f4" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/2f389f00-357c-4886-9f3f-8985830dc8f4" /><img height="500" alt="image" src="https://github.com/user-attachments/assets/5078b818-c2b5-45cb-8216-cb93ab40465e" />
+
 <p>There are currently errors for the flash chip since it was imported. The pads are too close to each other but I couldn't find a way to edit them.</p>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/88b714c7-edf2-4f40-820b-19657d19666b" />
 
