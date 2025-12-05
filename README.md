@@ -12,6 +12,7 @@ There are many features, such as compatibility with USB-C, supports breadboard p
 <img width="2044" height="1364" alt="image" src="https://github.com/user-attachments/assets/e6a9e59f-d3f4-489d-be0a-d1fcc3abd500" />
 
 # PCB
+The PCB was made within KiCad and has two layers, where the top and bottom layer both connect to GND. It would be beneficial to have a four layer PCB instead of two since the routings would be done easier by setting adding another power plane for 3.3V or VCC.
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/2f389f00-357c-4886-9f3f-8985830dc8f4" /><img height="500" alt="image" src="https://github.com/user-attachments/assets/5078b818-c2b5-45cb-8216-cb93ab40465e" />
 
 <p>There are currently errors for the flash chip since it was imported. The pads are too close to each other but I couldn't find a way to edit them.</p>
